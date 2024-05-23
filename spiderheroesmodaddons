@@ -106,8 +106,8 @@
     {
       "id": 1,
       "name_add": "Spider-man: No Way Home addon",
-      "addB_url": "https://modscraft.net/downloads/10423",
-      "addR_url": "https://modscraft.net/downloads/10423",
+      "addB_url": "https://modscraft.net/downloads/10423 B.mcaddon",
+      "addR_url": "https://modscraft.net/downloads/10423 R.mcaddon",
       "view_add": "https://modscraft.net/uploads/posts/2023-10/marvels-spider-man2-1.png",
       "des_add": "https://modscraft.net/uploads/posts/2023-10/marvels-spider-man2-3.jpg"
     },
@@ -122,7 +122,7 @@
     {
       "id": 3,
       "name_add": "Flora Fishing",
-      "addB_url": "https://aliendro.id/uploads/demo/premiummods/Flora_Fishing R.mcaddon",
+      "addB_url": "https://aliendro.id/uploads/demo/premiummods/Flora_Fishing B.mcaddon",
       "addR_url": "https://aliendro.id/uploads/demo/premiummods/Flora_Fishing R.mcaddon",
       "view_add": "file:///android_asset/fish.png",
       "des_add": "https://aliendro.id/uploads/demo/premiummods/fish.html"
